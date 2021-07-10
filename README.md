@@ -1,4 +1,4 @@
-## X-URL-Uploader (Bot)
+## TG-URL-Uploader (Bot)
 ---
 
 Telegram RoBot to Upload Links.
@@ -10,10 +10,6 @@ Telegram RoBot to Upload Links.
 👉 Upload [YTDL Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
 
 👉 Upload HTTP/HTTPS as File/Video to Telegram.
-
-**For Devs**:
-
-👉 [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
 
 
 ## Credits, and Thanks to:
